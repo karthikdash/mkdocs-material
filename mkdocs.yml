@@ -34,7 +34,7 @@ copyright: 'Copyright &copy; 2016 - 2018 Martin Donath'
 
 # Configuration
 theme:
-  name: null
+  name: material
   custom_dir: material
 
   # 404 page
